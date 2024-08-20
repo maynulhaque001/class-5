@@ -1,0 +1,131 @@
+#home_work {
+    width: 80%;
+    border: 5px solid #ddd;
+    margin: 20px auto;
+    padding: 5%;
+}
+
+#home_work h1 {
+    text-align: center;
+    margin-top: 0;
+}
+
+a {
+    background: green;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px 16px;
+    border-radius: 5px;
+    margin-right: px;
+}
+
+a:hover {
+    background-color: blueviolet;
+    border: 2px solid #07f11ef3;
+}
+
+
+/* From area are bellow */
+.contact_form {
+    width: 80%;
+    border: 5px solid #ddd;
+    margin: 20px auto;
+    padding: 5%;
+
+    text-align: center;
+}
+
+.contact_form h2 {
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 0px;
+}
+
+.child {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.child label {
+    display: block;
+    margin-bottom: 7px;
+    font-weight: bold;
+
+}
+
+.child input, .child textarea {
+    padding: 10px 3%;
+    width: 94%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    background: green;
+    color: #ffffff;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: blueviolet;
+    border: 2px solid #07f11ef3;
+    cursor: pointer;
+}
+
+.radio {
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.radio label {
+    font-weight: bold;
+}
+
+span {
+    font-weight: normal;
+}
+
+.checkbox {
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.checkbox label {
+    font-weight: bold;
+}
+
+/* Table tag */
+.first_table {
+    width: 80%;
+    border: 5px solid #ddd;
+    margin: 20px auto;
+    padding: 5%;
+}
+
+.first_table h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+table {
+    width: 100%;
+}
+
+table, tr, th, td {
+    border: 2px solid #222;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px 20px;
+}
+
+table tr th {
+    background-color: #aaa;
+}
+
+td:hover {
+    background-color: #dadada;
+}
